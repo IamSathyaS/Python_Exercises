@@ -1,3 +1,13 @@
 header = "multiplication table of 17 = "
-print(header, "17x1 =",17*1,"17x2 =",17*2,"17x3 =",17*3,"17x4 =",17*4,"17x5 =",17*5,"17x6 =",17*6,"17x7 =",17*7,"17x8 =",17*8,"17x9 =",17*9,"17x10 =",17*10)
+print("multiplication table of 17")
+print("17 x 1 =",17*1)
+print("17 x 2 =",17*2)
+print("17 x 3 =",17*3)
+print("17 x 4 =",17*4)
+print("17 x 5 =",17*5)
+print("17 x 6 =",17*6)
+print("17 x 7 =",17*7)
+print("17 x 8 =",17*8)
+print("17 x 9 =",17*9)
+print("17 x10 =",17*10)
 
